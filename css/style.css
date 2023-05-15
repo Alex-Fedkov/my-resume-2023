@@ -172,6 +172,7 @@ body {
 
 /* contact section */
 .contact-section-type {
+    margin-top: 0;
     font-style: normal;
     font-weight: 700;
     font-size: 14px;
